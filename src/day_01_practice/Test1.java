@@ -17,5 +17,7 @@ public class Test1 {
         System.out.println("Added this line in to intellIJ");
 
         System.out.println("Hello git and github");
+
+        System.out.println("Commit from UI");
     }
 }
