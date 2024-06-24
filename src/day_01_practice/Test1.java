@@ -25,5 +25,6 @@ public class Test1 {
         System.out.println("Hello world3");
         System.out.println("Hello git push");
         //added this comment in GitHub
+        System.out.println("Commit from UI");
     }
 }
